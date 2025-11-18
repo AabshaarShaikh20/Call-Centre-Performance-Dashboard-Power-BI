@@ -1,4 +1,7 @@
-https://github.com/AabshaarShaikh20/Call-Centre-Performance-Dashboard-Power-BI/blob/main/Call%20Center%20Dashboard.JPG
+## 📸 Dashboard Preview
+
+![Dashboard Preview](https://github.com/AabshaarShaikh20/Call-Centre-Performance-Dashboard-Power-BI/blob/main/Call%20Center%20Dashboard.JPG?raw=true)
+
 
 # 📞 Call Centre Performance Dashboard – Power BI
 
